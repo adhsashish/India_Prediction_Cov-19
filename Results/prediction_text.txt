@@ -1,4 +1,4 @@
-The number of predicted infections in 40th day or April-23 is : 23945.7
-The number of predicted infections in 45th day or April-28 is : 33953
-The number of predicted infections in 40th day or May-3    is : 46370.7
-The total number of deaths predicted on May-3 is : 1476.55
+The number of predicted infections for 40th day or April-23 is : 23945.7
+The number of predicted infections for 45th day or April-28 is : 33953
+The number of predicted infections for 40th day or May-3    is : 46370.7
+The total number of deaths predicted for May-3 is : 1476.55
