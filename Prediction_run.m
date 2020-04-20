@@ -47,6 +47,6 @@ prediction_50 = polyval(p,50);
 prediction_death_50 = polyval(p_death,50);
 fprintf('The number of predicted infections in 40th day or April-23 is : %d\n',prediction_40);
 fprintf('The number of predicted infections in 45th day or April-28 is : %d\n',prediction_45);
-fprintf('The number of predicted infections in 40th day or May-3    is : %d\n',prediction_50);
+fprintf('The number of predicted infections in 50th day or May-3    is : %d\n',prediction_50);
 fprintf('The total number of deaths predicted in May-3 is : %d',prediction_death_50);
 pause;
